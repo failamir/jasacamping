@@ -81,7 +81,7 @@ $config['send_confirm_link'] = TRUE;
   |
   | When make it TRUE history in admin panel will work
  */
-$config['admin_history'] = false;
+$config['admin_history'] = true;
 
 /*
   |--------------------------------------------------------------------------
