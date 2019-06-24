@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://codeigniter.com/assets/images/ci-logo-big.png"></p>
 <p align="center">Shopping Cart Solution - CodeIgniter and Bootstrap</p>
  
@@ -91,3 +92,7 @@ Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgn
 
 ### API Documentation
 Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/API
+=======
+# jasacamping
+project jasacamping.com
+>>>>>>> origin/master
