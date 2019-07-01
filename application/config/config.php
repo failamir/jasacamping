@@ -24,7 +24,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   | a PHP script and you can easily do that on your own.
   |
  */
+<<<<<<< HEAD
 $config['base_url'] = 'http://jasacamping.kokngoding.id/';
+=======
+$config['base_url'] = 'http://localhost:8888/jasacamping/';
+>>>>>>> 1c712a42f2cd6fa828b696c74df301654af89454
 
 /*
   |--------------------------------------------------------------------------
@@ -81,7 +85,11 @@ $config['send_confirm_link'] = TRUE;
   |
   | When make it TRUE history in admin panel will work
  */
+<<<<<<< HEAD
 $config['admin_history'] = false;
+=======
+$config['admin_history'] = true;
+>>>>>>> 1c712a42f2cd6fa828b696c74df301654af89454
 
 /*
   |--------------------------------------------------------------------------

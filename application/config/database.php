@@ -76,9 +76,15 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
+<<<<<<< HEAD
 	'username' => 'kokngodi_jasacamping',
 	'password' => 'secret',
 	'database' => 'kokngodi_jasacamping',
+=======
+	'username' => 'root',
+	'password' => '',
+	'database' => 'jasacamping',
+>>>>>>> 1c712a42f2cd6fa828b696c74df301654af89454
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
